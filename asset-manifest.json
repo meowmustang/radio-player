@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/radio-player/static/js/main.6d0bdcf3.js",
+    "main.js": "/radio-player/static/js/main.f83904f7.js",
     "index.html": "/radio-player/index.html",
-    "main.6d0bdcf3.js.map": "/radio-player/static/js/main.6d0bdcf3.js.map"
+    "main.f83904f7.js.map": "/radio-player/static/js/main.f83904f7.js.map"
   },
   "entrypoints": [
-    "static/js/main.6d0bdcf3.js"
+    "static/js/main.f83904f7.js"
   ]
 }
